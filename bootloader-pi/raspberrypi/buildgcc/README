@@ -1,7 +1,0 @@
-
-
-*** I HAVE REMOVED THESE FILES ***
-
-I have a separate build_gcc repository at github where I maintain the gcc 
-and clang build scripts I use for my own homebuilt toolchains.
-
